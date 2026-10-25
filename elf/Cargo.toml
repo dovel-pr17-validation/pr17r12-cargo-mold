@@ -12,7 +12,7 @@ path = "lib.rs"
 
 [dependencies]
 blake3 = "1.8.7"
-bstr = "1"
+bstr = "1.13.1"
 crc32fast = "1"
 getrandom = "0.4.3"
 hashbrown = "0.17.1"
