@@ -11,7 +11,7 @@ repository.workspace = true
 path = "lib.rs"
 
 [dependencies]
-bstr = "1"
+bstr = "1.13.1"
 cpp_demangle = "0.5.1"
 flate2 = { version = "1", default-features = false, features = ["zlib-rs"] }
 libc.workspace = true
